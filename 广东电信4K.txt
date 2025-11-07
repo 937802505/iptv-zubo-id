@@ -1,0 +1,6 @@
+
+广东卫视4K,http://ipipip/udp/239.77.1.16:5146
+深圳卫视4K,http://ipipip/udp/239.77.1.14:5146
+广东卫视4k,http://ipipip/udp/239.77.0.66:5146
+深圳卫视4k,http://ipipip/udp/239.77.0.67:5146
+北京卫视4k,http://ipipip/udp/239.77.0.2:5146
