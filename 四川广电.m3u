@@ -1,0 +1,237 @@
+#EXTM3U  60.255.72.119:4022
+#EXTINF:-1 ,CCTV-1综合
+http://ajsccn.f3322.net:4022/udp/239.132.1.1:5000
+#EXTINF:-1 ,CCTV-2财经
+http://ajsccn.f3322.net:4022/udp/239.132.1.2:5000
+#EXTINF:-1 ,CCTV-3综艺
+http://ajsccn.f3322.net:4022/udp/239.132.1.3:5000
+#EXTINF:-1 ,CCTV-4中文国际
+http://ajsccn.f3322.net:4022/udp/239.132.1.4:5000
+#EXTINF:-1 ,CCTV-5体育
+http://ajsccn.f3322.net:4022/udp/239.132.1.5:5000
+#EXTINF:-1 ,CCTV-6电影
+http://ajsccn.f3322.net:4022/udp/239.132.1.6:5000
+#EXTINF:-1 ,CCTV-7国防军事
+http://ajsccn.f3322.net:4022/udp/239.132.1.7:5000
+#EXTINF:-1 ,CCTV-8电视剧
+http://ajsccn.f3322.net:4022/udp/239.132.1.8:5000
+#EXTINF:-1 ,CCTV-9纪录
+http://ajsccn.f3322.net:4022/udp/239.132.1.9:5000
+#EXTINF:-1 ,CCTV-10科教
+http://ajsccn.f3322.net:4022/udp/239.132.1.10:5000
+#EXTINF:-1 ,CCTV-11戏曲
+http://ajsccn.f3322.net:4022/udp/239.132.1.11:5000
+#EXTINF:-1 ,CCTV-12社会与法
+http://ajsccn.f3322.net:4022/udp/239.132.1.12:5000
+#EXTINF:-1 ,CCTV-13新闻
+http://ajsccn.f3322.net:4022/udp/239.132.1.13:5000
+#EXTINF:-1 ,CCTV-14少儿
+http://ajsccn.f3322.net:4022/udp/239.132.1.14:5000
+#EXTINF:-1 ,CCTV-15音乐
+http://ajsccn.f3322.net:4022/udp/239.132.1.15:5000
+#EXTINF:-1 ,CCTV-5+体育赛事
+http://ajsccn.f3322.net:4022/udp/239.132.1.16:5000
+#EXTINF:-1 ,北京卫视
+http://ajsccn.f3322.net:4022/udp/239.132.1.17:5000
+#EXTINF:-1 ,江苏卫视
+http://ajsccn.f3322.net:4022/udp/239.132.1.18:5000
+#EXTINF:-1 ,东方卫视
+http://ajsccn.f3322.net:4022/udp/239.132.1.19:5000
+#EXTINF:-1 ,深圳卫视
+http://ajsccn.f3322.net:4022/udp/239.132.1.20:5000
+#EXTINF:-1 ,湖南卫视
+http://ajsccn.f3322.net:4022/udp/239.132.1.21:5000
+#EXTINF:-1 ,浙江卫视
+http://ajsccn.f3322.net:4022/udp/239.132.1.22:5000
+#EXTINF:-1 ,山东卫视
+http://ajsccn.f3322.net:4022/udp/239.132.1.23:5000
+#EXTINF:-1 ,东南卫视
+http://ajsccn.f3322.net:4022/udp/239.132.1.24:5000
+#EXTINF:-1 ,安徽卫视
+http://ajsccn.f3322.net:4022/udp/239.132.1.25:5000
+#EXTINF:-1 ,贵州卫视
+http://ajsccn.f3322.net:4022/udp/239.132.1.26:5000
+#EXTINF:-1 ,天津卫视
+http://ajsccn.f3322.net:4022/udp/239.132.1.27:5000
+#EXTINF:-1 ,湖北卫视
+http://ajsccn.f3322.net:4022/udp/239.132.1.28:5000
+#EXTINF:-1 ,重庆卫视
+http://ajsccn.f3322.net:4022/udp/239.132.1.29:5000
+#EXTINF:-1 ,CHC影迷电影
+http://ajsccn.f3322.net:4022/udp/239.132.1.30:5000
+#EXTINF:-1 ,云南卫视
+http://ajsccn.f3322.net:4022/udp/239.132.1.31:5000
+#EXTINF:-1 ,江西卫视
+http://ajsccn.f3322.net:4022/udp/239.132.1.32:5000
+#EXTINF:-1 ,广西卫视
+http://ajsccn.f3322.net:4022/udp/239.132.1.33:5000
+#EXTINF:-1 ,广东卫视
+http://ajsccn.f3322.net:4022/udp/239.132.1.34:5000
+#EXTINF:-1 ,河南卫视
+http://ajsccn.f3322.net:4022/udp/239.132.1.35:5000
+#EXTINF:-1 ,黑龙江卫视
+http://ajsccn.f3322.net:4022/udp/239.132.1.36:5000
+#EXTINF:-1 ,吉林卫视
+http://ajsccn.f3322.net:4022/udp/239.132.1.37:5000
+#EXTINF:-1 ,陕西卫视
+http://ajsccn.f3322.net:4022/udp/239.132.1.38:5000
+#EXTINF:-1 ,宁夏卫视
+http://ajsccn.f3322.net:4022/udp/239.132.1.40:5000
+#EXTINF:-1 ,内蒙卫视
+http://ajsccn.f3322.net:4022/udp/239.132.1.41:5000
+#EXTINF:-1 ,山西卫视
+http://ajsccn.f3322.net:4022/udp/239.132.1.42:5000
+#EXTINF:-1 ,甘肃卫视
+http://ajsccn.f3322.net:4022/udp/239.132.1.43:5000
+#EXTINF:-1 ,四川卫视
+http://ajsccn.f3322.net:4022/udp/239.132.1.44:5000
+#EXTINF:-1 ,四川卫视4K
+http://ajsccn.f3322.net:4022/udp/239.132.1.181:5000
+#EXTINF:-1 ,四川文化旅游
+http://ajsccn.f3322.net:4022/udp/239.132.1.45:5000
+#EXTINF:-1 ,四川经济
+http://ajsccn.f3322.net:4022/udp/239.132.1.46:5000
+#EXTINF:-1 ,四川新闻
+http://ajsccn.f3322.net:4022/udp/239.132.1.47:5000
+#EXTINF:-1 ,四川影视文艺
+http://ajsccn.f3322.net:4022/udp/239.132.1.48:5000
+#EXTINF:-1 ,SCTV-7
+http://ajsccn.f3322.net:4022/udp/239.132.1.49:5000
+#EXTINF:-1 ,四川科教
+http://ajsccn.f3322.net:4022/udp/239.132.1.50:5000
+#EXTINF:-1 ,四川乡村
+http://ajsccn.f3322.net:4022/udp/239.132.1.51:5000
+#EXTINF:-1 ,峨眉电影
+http://ajsccn.f3322.net:4022/udp/239.132.1.52:5000
+#EXTINF:-1 ,新视觉
+http://ajsccn.f3322.net:4022/udp/239.132.1.53:5000
+#EXTINF:-1 ,快乐垂钓
+http://ajsccn.f3322.net:4022/udp/239.132.1.54:5000
+#EXTINF:-1 ,CHC家庭影院
+http://ajsccn.f3322.net:4022/udp/239.132.1.55:5000
+#EXTINF:-1 ,CHC动作影院
+http://ajsccn.f3322.net:4022/udp/239.132.1.56:5000
+#EXTINF:-1 ,先锋乒羽
+http://ajsccn.f3322.net:4022/udp/239.132.1.57:5000
+#EXTINF:-1 ,劲爆体育
+http://ajsccn.f3322.net:4022/udp/239.132.1.58:5000
+#EXTINF:-1 ,天府4K
+http://ajsccn.f3322.net:4022/udp/239.132.1.59:5000
+#EXTINF:-1 ,天元围棋
+http://ajsccn.f3322.net:4022/udp/239.132.1.60:5000
+#EXTINF:-1 ,都市剧场
+http://ajsccn.f3322.net:4022/udp/239.132.1.61:5000
+#EXTINF:-1 ,中华特产
+http://ajsccn.f3322.net:4022/udp/239.132.1.62:5000
+#EXTINF:-1 ,江苏卫视4K
+http://ajsccn.f3322.net:4022/udp/239.132.1.63:5000
+#EXTINF:-1 ,山东卫视4K
+http://ajsccn.f3322.net:4022/udp/239.132.1.64:5000
+#EXTINF:-1 ,浙江卫视4K
+http://ajsccn.f3322.net:4022/udp/239.132.1.66:5000
+#EXTINF:-1 ,湖南卫视4K
+http://ajsccn.f3322.net:4022/udp/239.132.1.68:5000
+#EXTINF:-1 ,东方卫视4K
+http://ajsccn.f3322.net:4022/udp/239.132.1.69:5000
+#EXTINF:-1 ,环球旅游
+http://ajsccn.f3322.net:4022/udp/239.132.1.65:5000
+#EXTINF:-1 ,生活时尚
+http://ajsccn.f3322.net:4022/udp/239.132.1.67:5000
+#EXTINF:-1 ,东方财经
+http://ajsccn.f3322.net:4022/udp/239.132.1.70:5000
+#EXTINF:-1 ,动漫秀场
+http://ajsccn.f3322.net:4022/udp/239.132.1.71:5000
+#EXTINF:-1 ,中央新影中学生
+http://ajsccn.f3322.net:4022/udp/239.132.1.73:5000
+#EXTINF:-1 ,CETV4
+http://ajsccn.f3322.net:4022/udp/239.132.1.75:5000
+#EXTINF:-1 ,乐游
+http://ajsccn.f3322.net:4022/udp/239.132.1.77:5000
+#EXTINF:-1 ,四海钓鱼
+http://ajsccn.f3322.net:4022/udp/239.132.1.80:5000
+#EXTINF:-1 ,CETV-1
+http://ajsccn.f3322.net:4022/udp/239.132.1.81:5000
+#EXTINF:-1 ,CCTV-4K
+http://ajsccn.f3322.net:4022/udp/239.132.1.82:5000
+#EXTINF:-1 ,CCTV-17农业农村
+http://ajsccn.f3322.net:4022/udp/239.132.1.83:5000
+#EXTINF:-1 ,剧场1
+http://ajsccn.f3322.net:4022/udp/239.132.1.85:5000
+#EXTINF:-1 ,剧场2
+http://ajsccn.f3322.net:4022/udp/239.132.1.86:5000
+#EXTINF:-1 ,峨眉电影4K
+http://ajsccn.f3322.net:4022/udp/239.132.1.87:5000
+#EXTINF:-1 ,青海卫视
+http://ajsccn.f3322.net:4022/udp/239.132.1.89:5000
+#EXTINF:-1 ,康巴卫视
+http://ajsccn.f3322.net:4022/udp/239.132.1.90:5000
+#EXTINF:-1 ,辽宁卫视
+http://ajsccn.f3322.net:4022/udp/239.132.1.91:5000
+#EXTINF:-1 ,中华特产
+http://ajsccn.f3322.net:4022/udp/239.132.1.92:5000
+#EXTINF:-1 ,中国天气
+http://ajsccn.f3322.net:4022/udp/239.132.1.93:5000
+#EXTINF:-1 ,宁夏卫视
+http://ajsccn.f3322.net:4022/udp/239.132.1.96:5000
+#EXTINF:-1 ,兵团卫视
+http://ajsccn.f3322.net:4022/udp/239.132.1.97:5000
+#EXTINF:-1 ,汽摩
+http://ajsccn.f3322.net:4022/udp/239.132.1.98:5000
+#EXTINF:-1 ,川网导视
+http://ajsccn.f3322.net:4022/udp/239.132.1.100:5000
+#EXTINF:-1 ,精品导视
+http://ajsccn.f3322.net:4022/udp/239.132.1.101:5000
+#EXTINF:-1 ,天下收藏
+http://ajsccn.f3322.net:4022/udp/239.132.1.103:5000
+#EXTINF:-1 ,游戏风云
+http://ajsccn.f3322.net:4022/udp/239.132.1.104:5000
+#EXTINF:-1 ,法制天地
+http://ajsccn.f3322.net:4022/udp/239.132.1.105:5000
+#EXTINF:-1 ,中央新影发现之旅
+http://ajsccn.f3322.net:4022/udp/239.132.1.107:5000
+#EXTINF:-1 ,中央新影老故事
+http://ajsccn.f3322.net:4022/udp/239.132.1.108:5000
+#EXTINF:-1 ,金鹰卡通
+http://ajsccn.f3322.net:4022/udp/239.132.1.110:5000
+#EXTINF:-1 ,财富天下
+http://ajsccn.f3322.net:4022/udp/239.132.1.111:5000
+#EXTINF:-1 ,深圳卫视4k
+http://ajsccn.f3322.net:4022/udp/239.132.1.112:5000
+#EXTINF:-1 ,广东卫视4k
+http://ajsccn.f3322.net:4022/udp/239.132.1.113:5000
+#EXTINF:-1 ,梨园频道
+http://ajsccn.f3322.net:4022/udp/239.132.1.118:5000
+#EXTINF:-1 ,武术世界
+http://ajsccn.f3322.net:4022/udp/239.132.1.119:5000
+#EXTINF:-1 ,天府一品
+http://ajsccn.f3322.net:4022/udp/239.132.1.126:5000
+#EXTINF:-1 ,金色学堂
+http://ajsccn.f3322.net:4022/udp/239.132.1.128:5000
+#EXTINF:-1 ,新动漫
+http://ajsccn.f3322.net:4022/udp/239.132.1.134:5000
+#EXTINF:-1 ,嘉佳卡通
+http://ajsccn.f3322.net:4022/udp/239.132.1.136:5000
+#EXTINF:-1 ,CETV2
+http://ajsccn.f3322.net:4022/udp/239.132.1.140:5000
+#EXTINF:-1 ,卡酷少儿
+http://ajsccn.f3322.net:4022/udp/239.132.1.142:5000
+#EXTINF:-1 ,重温经典
+http://ajsccn.f3322.net:4022/udp/239.132.1.147:5000
+#EXTINF:-1 ,生态环境
+http://ajsccn.f3322.net:4022/udp/239.132.1.153:5000
+#EXTINF:-1 ,星空购物
+http://ajsccn.f3322.net:4022/udp/239.132.1.167:5000
+#EXTINF:-1 ,聚鲨鱼购物
+http://ajsccn.f3322.net:4022/udp/239.132.1.176:5000
+#EXTINF:-1 ,四川卫视4k
+http://ajsccn.f3322.net:4022/udp/239.132.1.181:5000
+#EXTINF:-1 ,CCTV俄语
+http://ajsccn.f3322.net:4022/udp/239.132.1.186:5000
+#EXTINF:-1 ,CCTV16奥林匹克 AVS+
+http://ajsccn.f3322.net:4022/udp/239.132.1.195:5000
+#EXTINF:-1 ,CCTV5+体育赛事
+http://ajsccn.f3322.net:4022/udp/239.132.1.196:5000
+#EXTINF:-1 ,湖南卫视
+http://ajsccn.f3322.net:4022/udp/239.132.1.198:5000
+#EXTINF:-1 ,XJTV
+http://ajsccn.f3322.net:4022/udp/239.132.1.200:5000
